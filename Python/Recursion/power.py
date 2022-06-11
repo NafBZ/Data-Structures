@@ -1,3 +1,5 @@
+#Power of a number
+
 def power(base, exp):
 
     assert exp >= 0 and int(exp) == exp, 'The given number must be a non negative integer!' #edge case
