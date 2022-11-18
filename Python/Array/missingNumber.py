@@ -29,3 +29,4 @@ if __name__ == '__main__':
     
 #Time Complexity O(n)
 #Output should be fifteen.
+#Edge Cases are not considered here, but would be great to include.
