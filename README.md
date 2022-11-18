@@ -2,7 +2,7 @@
 
 This repo contains solutions of different data structures and algorithmic questions.
 
-> **I have written all the solutions in _Python 3_. Feel free to check it out.**
+> **I have written all the solutions in _Python 3_. Feel free to check and contribute.**
 
 Topics Covered:
 
