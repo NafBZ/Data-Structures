@@ -7,6 +7,12 @@ This repo contains solutions of different data structures and algorithmic questi
 Topics Covered:
 
 1. Recursion (Continue)
+   - [Decimal to Binary.](/Python/Recursion/decimalToBinary.py)
+   - [Find factorial of a number.](/Python/Recursion/factorial.py)
+   - [Find the fibonacci i^th number.](/Python/Recursion/fibonacci.py)
+   - [Find the greatest common divisor of a number.](/Python/Recursion/gcd.py)
+   - [Power of a number.](/Python/Recursion/power.py)
+   - [Find the sum of digits of a positive integer.](/Python/Recursion/sum_of_digits.py)
 2. List and Arrays (Continue)
    - [Find all pairs of integers whose sum is equal to a given number.](/Python/Array/findPairs.py)
    - [Find a number in an array.](/Python/Array/f_number.py)
