@@ -1,6 +1,7 @@
 # Data-Structures and Algorithm
 
-This repo contains solutions of different data structures and algorithmic questions.
+### This repo contains solutions of different data structures and algorithmic questions.
+Note: Not all the files contain most optimized solutions
 
 > **I have written all the solutions in _Python 3_. Feel free to check and contribute.**
 
