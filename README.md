@@ -9,7 +9,7 @@ Topics Covered:
 1. Recursion (Continue)
    - [Decimal to Binary.](/Python/Recursion/decimalToBinary.py)
    - [Find factorial of a number.](/Python/Recursion/factorial.py)
-   - [Find the fibonacci i^th number.](/Python/Recursion/fibonacci.py)
+   - [Find the *i*<sup>th</sup> fibonacci number.](/Python/Recursion/fibonacci.py)
    - [Find the greatest common divisor of a number.](/Python/Recursion/gcd.py)
    - [Power of a number.](/Python/Recursion/power.py)
    - [Find the sum of digits of a positive integer.](/Python/Recursion/sum_of_digits.py)
