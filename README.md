@@ -6,5 +6,6 @@ This repo contains solutions of different data structures and algorithmic questi
 
 Topics Covered:
 
-- Recursion (Continue)
-- List (Continue)
+1. Recursion (Continue)
+2. List and Arrays (Continue)
+   - [find all pairs of integers whose sum is equal to a given number.](/Python/Array/findPairs.py)
