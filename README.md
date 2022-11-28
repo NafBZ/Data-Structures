@@ -6,5 +6,5 @@ This repo contains solutions of different data structures and algorithmic questi
 
 Topics Covered:
 
-- Recursion
-- Array and List
+- Recursion (Continue)
+- List (Continue)
