@@ -14,7 +14,7 @@ Topics Covered:
    - [Find the greatest common divisor of a number.](/Python/Recursion/gcd.py)
    - [Power of a number.](/Python/Recursion/power.py)
    - [Find the sum of digits of a positive integer.](/Python/Recursion/sum_of_digits.py)
-2. List and Arrays (Continue)
+2. List and Arrays
    - [Find all pairs of integers whose sum is equal to a given number.](/Python/Array/findPairs.py)
    - [Find a number in an array.](/Python/Array/f_number.py)
    - [Check if all the elements of a list is unique or not.](/Python/Array/isUnique.py)
