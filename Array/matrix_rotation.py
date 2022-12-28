@@ -22,8 +22,8 @@ def rotation(matrix):
     return matrix
 
 
-def rotation_easy(matrix, n):
-    assert n == matrix.shape[0], 'Provided number must be same as the number of rows or columns of the matrix'
+def rotation_easy(matrix):
+    n = matrix.shape[0]
     arr = np.zeros((n, n))  # Extra Space O(N)
     for j in range(n):
         for i in range(n-1, -1, -1):
@@ -38,4 +38,4 @@ matrix = np.array([[1, 2, 3],
 
 if __name__ == '__main__':
     print(rotation(matrix))
-    print(rotation_easy(matrix, 3))
+    print(rotation_easy(matrix))
