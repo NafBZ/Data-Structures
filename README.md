@@ -20,4 +20,4 @@ Topics Covered:
    - [Check if all the elements of a list is unique or not.](/Python/Array/isUnique.py)
    - [Find the missing number in an integer array of 1 to 100.](/Python/Array/missingNumber.py)
    - [Rotate a square matrix by 90 degree clockwise.](/Python/Array/matrix_rotation.py)
-   - [Write a function to get a list of the highest, and the second highest number from a given list](/Python/Array/findTwoHighestNumber.py)
+   - [Get a list of the highest, and the second highest number from a given list](/Python/Array/findTwoHighestNumber.py)
