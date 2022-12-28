@@ -1,24 +1,27 @@
-# Rotate a square matrix by 90 degree
+# Rotate a square matrix by 90 degree.
+
+# Here are two examples. First one with space complexity of O(1) and the second one with space complexity O(n).
+# Time complexity is same O(n^2) for both the solutions.
 
 import numpy as np
 
 
 def rotation(matrix):
     rows = matrix.shape[0]
-    for layer in range(rows // 2):
-        first = layer
-        last = rows - layer - 1
+    for slice in range(rows // 2):
+        first = slice
+        last = rows - slice - 1
         for i in range(first, last):
 
-            top = matrix[layer][i]
+            top = matrix[slice][i]
 
-            matrix[layer][i] = matrix[-i - 1][layer]
+            matrix[slice][i] = matrix[-i - 1][slice]
 
-            matrix[-i - 1][layer] = matrix[-layer - 1][-i - 1]
+            matrix[-i - 1][slice] = matrix[-slice - 1][-i - 1]
 
-            matrix[-layer - 1][-i - 1] = matrix[i][- layer - 1]
+            matrix[-slice - 1][-i - 1] = matrix[i][- slice - 1]
 
-            matrix[i][- layer - 1] = top
+            matrix[i][- slice - 1] = top
     return matrix
 
 
