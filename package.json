@@ -1,0 +1,27 @@
+{
+  "name": "data-structures",
+  "version": "1.0.0",
+  "description": "Note: Not all the files contain most optimized solutions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ts": "ts-node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NafBZ/Data-Structures.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/NafBZ/Data-Structures/issues"
+  },
+  "homepage": "https://github.com/NafBZ/Data-Structures#readme",
+  "devDependencies": {
+    "@types/node": "^25.4.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
